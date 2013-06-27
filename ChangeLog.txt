@@ -1,0 +1,4 @@
+---------------------------------------------
+1.6-beta-1 (2013-07-01)
+
+- Completely rewritten SDK.  Many API calls not yet implemented.
